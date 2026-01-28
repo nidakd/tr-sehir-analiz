@@ -1,5 +1,4 @@
 *.sql
-*.groovy
 *.txt
 __pycache__/
 .DS_Store
